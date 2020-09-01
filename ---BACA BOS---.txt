@@ -1,0 +1,36 @@
+   #     #####   ###   ###    #     ###   ###
+   ##     #   #   ##   ##     ##     ##    #
+  ###     #   #   ###  ##    ###     ###   #
+  #  #    #  #    # # # #    #  #    # ##  #
+ #####    ####    # # # #   #####    #  #  #
+ #   ##   #  #    #  #  #   #   ##   #  ## #
+##    #   #  ##   #  #  #  ##    #   #    ##
+##   ### ###  ## ###   ### ##   ### ###   ###
+
+#======================================================================
+
+url = localhost/crud-CI3/
+
+Akun
+username = admin
+password = 12345678
+
+username = member
+password = 12345678
+
+---CATATAN---
+CRUD DAN LOGIN CODEIGNITER 3.1.11
+CREATED  BY = ARMAN
+DATE        = 23 AGUSTUS 2020
+
+---BAHAN---
+CODEIGNITER 3.1.11
+DATA TABLE
+BOOTSRAP 4
+FONTAWESOME
+JQUERY
+TEMPLATE SB ADMIN-2
+
+### ARMAN == RAKSASA KECIL ###
+
+
